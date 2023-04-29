@@ -1035,6 +1035,11 @@ span:hover {
   -webkit-transition: all .4s;
   -o-transition: all .4s;
   transition: all .4s;
+  cursor: pointer;
+}
+
+.butn-new:hover {
+opacity: 0.9;
 }
 
 .butn:hover .char {
