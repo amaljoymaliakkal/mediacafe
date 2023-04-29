@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="531" height="86" viewBox="0 0 531 86">
+  <g id="Group_137" data-name="Group 137" transform="translate(-210 -32)">
+    <g id="Group_136" data-name="Group 136" transform="translate(0 -15)">
+      <path id="Path_39" data-name="Path 39" d="M43,0A43,43,0,1,1,0,43,43,43,0,0,1,43,0Z" transform="translate(210 47)" fill="#f7f7f1"/>
+      <g id="Group_135" data-name="Group 135" transform="translate(226 73)">
+        <path id="Path_35" data-name="Path 35" d="M145.033,136.661l-15.592-17.419v12.83l15.592,17.42Z" transform="translate(-119.164 -119.243)" fill="#e9aa43"/>
+        <path id="Path_36" data-name="Path 36" d="M118.99,141.285l-.016.018v-12.83l8.262-9.23v34.078H118.99Z" transform="translate(-118.975 -119.243)" fill="#ba1919"/>
+        <path id="Path_37" data-name="Path 37" d="M147.7,136.661,163.3,119.243v12.83L147.7,149.492Z" transform="translate(-119.493 -119.243)" fill="#e9aa43"/>
+        <path id="Path_38" data-name="Path 38" d="M173.881,141.285l.016.018v-12.83l-8.262-9.23v34.078h8.246Z" transform="translate(-119.817 -119.243)" fill="#ba1919"/>
+      </g>
+    </g>
+    <text id="Media_Café_Online" data-name="Media Café Online" transform="translate(311 93)" fill="#fff" font-size="49" font-family="Outfit-Medium, Outfit" font-weight="500" letter-spacing="0.034em"><tspan x="0" y="0">Media Café Online</tspan></text>
+  </g>
+</svg>
