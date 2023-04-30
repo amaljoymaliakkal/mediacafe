@@ -4008,3 +4008,7 @@ button {
   padding: 70px 130px;
 }
 
+
+.navbar .navbar-nav .nav-link:hover {
+  color:#BA1919;
+}
